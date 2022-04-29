@@ -3,7 +3,7 @@
 - 🔭 Formando em Comunicação Social
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas para Internet
 - 👯 A paixonado por tecnologia
-- 🤔 Adentrando o fantástico mundo da programação
+- 🤔 Aprendendo o fantástico mundo da programação
 
 <div align="center">
   <a href="https://github.com/renanmesquita">
